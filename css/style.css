@@ -2726,3 +2726,5 @@ footer {
     left: 190px; }
   header .top-head .butons-wrap button:nth-of-type(1) {
     max-width: 145px; } }
+.swiper-container{
+   overflow:hidden;}
